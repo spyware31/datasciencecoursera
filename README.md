@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Project related test
